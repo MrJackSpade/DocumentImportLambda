@@ -1,0 +1,5 @@
+.vs/
+src/DocumentImportLambda/bin/
+src/DocumentImportLambda/obj/
+test/DocumentImportLambda.Tests/bin/
+test/DocumentImportLambda.Tests/obj/
